@@ -5,29 +5,28 @@
 
 This project demonstrates how the same coffee shop sales dataset can be transformed into business insights across multiple analytics platforms:
 - Google Looker Studio
-- Microsoft Excel
-- Databricks SQL
+- Databricks
+- PowerBI
 
-  The objective was to compare dashboard design, usability, and reporting capabilities across tools.
+The objective was to compare dashboard design, usability, and reporting capabilities across tools using the same excel dataset.
 
-  📊 **Platforms Used:**
-  
-  1.Google Looker Studio
-  
-  2. Databricks
-     
-  3. PowerBI
-     
+
 
 **1. Google Looker Studio**
 
  Google Looker Studio Dashboard
 
+ **Interactive Dashboard:** https://datastudio.google.com/s/l3LtPimG1V8
+ 
+ Interactive cloud dashboard with filters, KPI cards, trends, and store comparisons.
+
 <img width="452" height="341" alt="Google Looker screenshot" src="https://github.com/user-attachments/assets/0eee3490-378e-46c5-be04-435033154412" />
 
-**Interactive Dashboard:** https://datastudio.google.com/s/l3LtPimG1V8
 
-Interactive cloud dashboard with filters, KPI cards, trends, and store comparisons.
+
+
+
+
 
 
 **2. Databricks**
@@ -37,11 +36,15 @@ This dashboard was built using the same Excel dataset across all tools.
 File included:
 -Coffee_lab_looker_dashboard.json (exported dashboard structure)
 
-<img width="707" height="368" alt="Databricks Dashboard" src="https://github.com/user-attachments/assets/d7b172c8-a3ec-41cc-8984-2d2ff42fa2d3" />
-
-This JSON file represents the dashboard configuration and is used to reconstruct the dashboard in Looker Studio environments.
+Note: This JSON file represents the dashboard configuration and is used to reconstruct the dashboard in Looker Studio environments.
 
 SQL queries, transformations, and enterprise-scale dashboarding.
+
+<img width="707" height="368" alt="Databricks Dashboard" src="https://github.com/user-attachments/assets/d7b172c8-a3ec-41cc-8984-2d2ff42fa2d3" />
+
+
+
+
 
 
 **3.PowerBI**
